@@ -1,0 +1,6 @@
+{
+  "name": "丰迹平台 V1.0",
+  "description": "丰迹企业级数字化巡检与外勤作业管理平台，集成开放平台商户/项目管理、丰迹运营后台（任务管理、下单管理、订单执行监控、数据同步与看板）及独立的丰迹租户端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
